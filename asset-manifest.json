@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TLongueira/curso-frontend-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/TLongueira/curso-frontend-app/static/js/main.47fd8d78.chunk.js",
+    "main.js.map": "/TLongueira/curso-frontend-app/static/js/main.47fd8d78.chunk.js.map",
+    "runtime-main.js": "/TLongueira/curso-frontend-app/static/js/runtime-main.56b6a612.js",
+    "runtime-main.js.map": "/TLongueira/curso-frontend-app/static/js/runtime-main.56b6a612.js.map",
+    "static/js/2.1684c563.chunk.js": "/TLongueira/curso-frontend-app/static/js/2.1684c563.chunk.js",
+    "static/js/2.1684c563.chunk.js.map": "/TLongueira/curso-frontend-app/static/js/2.1684c563.chunk.js.map",
+    "static/js/3.ee18a8b2.chunk.js": "/TLongueira/curso-frontend-app/static/js/3.ee18a8b2.chunk.js",
+    "static/js/3.ee18a8b2.chunk.js.map": "/TLongueira/curso-frontend-app/static/js/3.ee18a8b2.chunk.js.map",
+    "index.html": "/TLongueira/curso-frontend-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/TLongueira/curso-frontend-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1684c563.chunk.js.LICENSE.txt": "/TLongueira/curso-frontend-app/static/js/2.1684c563.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TLongueira/curso-frontend-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56b6a612.js",
+    "static/js/2.1684c563.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.47fd8d78.chunk.js"
+  ]
+}
