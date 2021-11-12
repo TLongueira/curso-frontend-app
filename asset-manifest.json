@@ -1,22 +1,17 @@
 {
   "files": {
-    "main.css": "/curso-frontend-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/curso-frontend-app/static/js/main.c1000981.chunk.js",
-    "main.js.map": "/curso-frontend-app/static/js/main.c1000981.chunk.js.map",
-    "runtime-main.js": "/curso-frontend-app/static/js/runtime-main.e0ac56e2.js",
-    "runtime-main.js.map": "/curso-frontend-app/static/js/runtime-main.e0ac56e2.js.map",
-    "static/js/2.549d9bdb.chunk.js": "/curso-frontend-app/static/js/2.549d9bdb.chunk.js",
-    "static/js/2.549d9bdb.chunk.js.map": "/curso-frontend-app/static/js/2.549d9bdb.chunk.js.map",
-    "static/js/3.ee18a8b2.chunk.js": "/curso-frontend-app/static/js/3.ee18a8b2.chunk.js",
-    "static/js/3.ee18a8b2.chunk.js.map": "/curso-frontend-app/static/js/3.ee18a8b2.chunk.js.map",
+    "main.js": "/curso-frontend-app/static/js/main.046bb31c.chunk.js",
+    "main.js.map": "/curso-frontend-app/static/js/main.046bb31c.chunk.js.map",
+    "runtime-main.js": "/curso-frontend-app/static/js/runtime-main.d35de41d.js",
+    "runtime-main.js.map": "/curso-frontend-app/static/js/runtime-main.d35de41d.js.map",
+    "static/js/2.3b6dfc57.chunk.js": "/curso-frontend-app/static/js/2.3b6dfc57.chunk.js",
+    "static/js/2.3b6dfc57.chunk.js.map": "/curso-frontend-app/static/js/2.3b6dfc57.chunk.js.map",
     "index.html": "/curso-frontend-app/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/curso-frontend-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.549d9bdb.chunk.js.LICENSE.txt": "/curso-frontend-app/static/js/2.549d9bdb.chunk.js.LICENSE.txt"
+    "static/js/2.3b6dfc57.chunk.js.LICENSE.txt": "/curso-frontend-app/static/js/2.3b6dfc57.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0ac56e2.js",
-    "static/js/2.549d9bdb.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c1000981.chunk.js"
+    "static/js/runtime-main.d35de41d.js",
+    "static/js/2.3b6dfc57.chunk.js",
+    "static/js/main.046bb31c.chunk.js"
   ]
 }
